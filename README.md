@@ -91,7 +91,7 @@
 **2025/06/17**    
 
 ✅ **今日更新進度：**
-1. 利用 Google Apps Script 將明日代辦事項成功加入到 Google Calendar
+1. 利用 Google Apps Script 將明日代辦事項成功加入到 Google Calendar。
 
 
 ## 🎯 未來規劃
